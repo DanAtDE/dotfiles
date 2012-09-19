@@ -2,7 +2,7 @@
 #include "bstack.c"
 
 /* appearance */
-static const char font[]            = "-*-webbysmall-*-*-*-*-*-*-*-*-*-*-*-*";
+static const char font[]            = "-*-terminus-*-*-*-*-17-*-*-*-*-*-*-*";
 static const char normbordercolor[] = "#000000";
 static const char normbgcolor[]     = "#000000";
 static const char normfgcolor[]     = "#cccccc";
