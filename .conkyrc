@@ -6,4 +6,4 @@ total_run_times 0
 use_spacer none
 
 TEXT
-${if_mpd_playing}${mpd_smart} :: ${endif}${cpu}%CPU $memperc%MEM ${uptime_short} :: ${nodename} ${addr} ${downspeedf}KiB/s (${totaldown})D ${upspeedf}KiB/s (${totalup})U :: ${time %F %R}
+${if_mpd_playing}${mpd_smart} :: ${endif} ${battery} ${cpu}%CPU $memperc%MEM ${uptime_short} :: ${nodename} ${addr} ${downspeedf}KiB/s (${totaldown})D ${upspeedf}KiB/s (${totalup})U :: ${time %F %R}
