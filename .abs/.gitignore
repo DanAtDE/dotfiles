@@ -1,4 +1,7 @@
 broadcom-wl/
+broadcom-wl-aufs_friendly/
+lxc-docker-git/
+nvidia-aufs_friendly/
 *instantclient*
 *sqldeveloper*
 nvidia-aufs_friendly/
